@@ -1,0 +1,6 @@
+pyobjc
+symusic
+playsound3
+certifi
+numpy
+flask
